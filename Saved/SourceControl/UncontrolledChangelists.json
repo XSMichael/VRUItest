@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GitHub/felix165/VRUItest/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"E:/GitHub/felix165/VRUItest/Content/WIB.uasset",
+				"E:/GitHub/felix165/VRUItest/Content/VRTemplate/Input/IMC_Menu.uasset",
 				"C:/Users/Acer/OneDrive/Documents/Unreal Projects/MyProjectVR/Content/WIB.uasset",
 				"C:/Users/Acer/OneDrive/Documents/Unreal Projects/MyProjectVR/Content/BP_UI.uasset",
 				"C:/Users/Acer/OneDrive/Documents/Unreal Projects/MyProjectVR/Content/VRTemplate/Blueprints/VRPawn.uasset",
