@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Acer/OneDrive/Documents/Unreal Projects/MyProjectVR/Content/WIB.uasset",
+				"C:/Users/Acer/OneDrive/Documents/Unreal Projects/MyProjectVR/Content/BP_UI.uasset",
+				"C:/Users/Acer/OneDrive/Documents/Unreal Projects/MyProjectVR/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/Acer/OneDrive/Documents/Unreal Projects/MyProjectVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/GitHub/VRUItest/Content/WIB.uasset",
+				"D:/GitHub/VRUItest/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"D:/GitHub/VRUItest/Content/VRTemplate/Input/Actions/IA_TriggerRight.uasset",
+				"D:/GitHub/VRUItest/Content/VRTemplate/Input/Actions/IA_TriggerLeft.uasset",
 				"C:/Users/Ryan Inka Chandra/OneDrive/Documents/GitHub/VRUItest/Content/VRTemplate/Input/IMC_Default.uasset",
 				"C:/Users/Ryan Inka Chandra/OneDrive/Documents/GitHub/VRUItest/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"C:/Users/Ryan Inka Chandra/OneDrive/Documents/GitHub/VRUItest/Content/VRTemplate/Input/IMC_Hands.uasset",
@@ -15,11 +23,7 @@
 				"C:/Users/Ryan Inka Chandra/OneDrive/Documents/GitHub/VRUItest/Content/WIB.uasset",
 				"E:/GitHub/felix165/VRUItest/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"E:/GitHub/felix165/VRUItest/Content/WIB.uasset",
-				"E:/GitHub/felix165/VRUItest/Content/VRTemplate/Input/IMC_Menu.uasset",
-				"C:/Users/Acer/OneDrive/Documents/Unreal Projects/MyProjectVR/Content/WIB.uasset",
-				"C:/Users/Acer/OneDrive/Documents/Unreal Projects/MyProjectVR/Content/BP_UI.uasset",
-				"C:/Users/Acer/OneDrive/Documents/Unreal Projects/MyProjectVR/Content/VRTemplate/Blueprints/VRPawn.uasset",
-				"C:/Users/Acer/OneDrive/Documents/Unreal Projects/MyProjectVR/Content/VRTemplate/Maps/VRTemplateMap.umap"
+				"E:/GitHub/felix165/VRUItest/Content/VRTemplate/Input/IMC_Menu.uasset"
 			]
 		}
 	]
